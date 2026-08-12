@@ -1,0 +1,9 @@
+{
+  "name": "smn-token-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Robot que obtiene el token del SMN para el Panel Gaman",
+  "dependencies": {
+    "playwright": "^1.47.0"
+  }
+}
